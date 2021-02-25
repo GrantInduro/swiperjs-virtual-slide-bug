@@ -24,7 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           },
@@ -87,7 +87,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           }
@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "swiper-test"
+  "defaultProject": "swiper-test",
+  "cli": {
+    "analytics": "82e1bb9c-e634-4b78-9221-4f4961853d69"
+  }
 }
